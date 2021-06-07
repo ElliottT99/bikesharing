@@ -5,11 +5,11 @@ The purpose of this project is to analyze how the Citi Bike system operating wit
 ### Results
 There is quite a bit of data to sift through and many angles to look at this endevour through.
 
-Our first area we looked at was rental timing/trip duration. We saw before that this service is wanted, but how much are the people actually using it? Here is a graph displaying trip lenghts for the entire userbase:
+Our first area we looked at was rental timing/trip duration. We saw before that this service is wanted, but how much are the people actually using it? Here is a graph displaying trip lengths for the entire userbase:
 
 ![tripDuration](Resources/tripDuration.PNG)
 
-The line plots number of trips taken for a certian time lenght. Here, we see that the average bike rental lasts anywhere between a 5-15 minute trip, on average. Breaking down our userbase, we can defer to this next graph:
+The line plot plots the number of trips taken for a certian time length. Here, we see that the average bike rental lasts anywhere between a 5-15 minute trip, on average. Breaking down our userbase, we can defer to this next graph:
 
 ![tripDurationBy Gender](Resources/tripDurationByGender.PNG)
 
